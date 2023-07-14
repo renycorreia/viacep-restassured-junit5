@@ -10,7 +10,7 @@ Para executar os testes deste projeto, siga as etapas abaixo:
 1. Clone este repositório para o seu ambiente local.
 2. Certifique-se de ter o Java JDK instalado em seu sistema.
 3. Instale as dependências necessárias executando o comando `mvn install` na raiz do projeto.
-4. Abra o arquivo `src/test/java/TestCases.java` para visualizar e executar os testes.
+4. Abra o arquivo `src/test/java/GetCepTests.java` para visualizar e executar os testes.
 
 ### Estrutura do Projeto
 
